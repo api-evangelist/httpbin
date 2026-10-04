@@ -39,7 +39,6 @@ apis:
   - name: Httpbin
     description: "A Simple HTTP Request & Response Service"
     humanURL: https://httpbin.org/
-    baseURL: https://httpbin.org/
     tags:
       - Development
     properties:
